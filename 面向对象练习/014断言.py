@@ -1,0 +1,1 @@
+assert type("3") is str
